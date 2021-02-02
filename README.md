@@ -1,2 +1,1 @@
-# My-portfolio
-This is my personal portfolio. in progress...
+# Responsive Portfolio Website
